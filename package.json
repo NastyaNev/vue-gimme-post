@@ -9,10 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "sass": "^1.69.5",
     "vue": "^3.3.10"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.1",
     "vite": "^5.0.5"
-  }
+  },
+  "brouserslist": [
+    "last 1 version",
+    "> 1%"
+  ]
 }
