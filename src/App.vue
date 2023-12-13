@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-    <Header />
+    <Header></Header>
+    <main>
+      <p>Ghbdtnl;l;</p>
+    </main>
   </div>
 </template>
 
@@ -21,5 +24,10 @@ div {
   left: 0;
   right: 0;
   bottom: 0;
+
+  main {
+    margin-top: 120px;
+    color: black;
+  }
 }
 </style>

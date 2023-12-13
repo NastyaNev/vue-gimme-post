@@ -31,6 +31,8 @@ button {
     p {
         z-index: 161;
         margin: 0;
+        font-weight: bold;
+        font-family: 'Montserrat';
     }
 
     &::before {
